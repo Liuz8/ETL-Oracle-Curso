@@ -7,6 +7,7 @@
 - `Partner`: si el cliente tiene o no una pareja
 - `Dependents`: si el cliente tiene o no dependientes
 - `tenure`: meses de contrato del cliente
+
 - `PhoneService`: suscripción al servicio telefónico
 - `MultipleLines`: suscripción a más de una línea telefónica
 - `InternetService`: suscripción a un proveedor de internet
